@@ -1,0 +1,46 @@
+
+body {
+  	font-family: 'Raleway' !important;
+}
+
+section {
+  padding:50px;
+}
+
+#hero {
+	margin-top: 50px;
+	background: #4393B9;
+	color:white;
+	font-size:50px;
+	font-weight: 700;
+}
+
+#hero h1 , #main h1{
+	font-size:60px;
+}
+
+#main h2 {
+	font-size:40px;
+}
+
+#main .fa-bolt {
+	color:#FAEA73;
+}
+
+#main .fa-globe {
+	color:#5CB85C;
+}
+
+#main .fa-facebook {
+   color:#4393B9;
+}
+
+#hero .btn-success {
+  width:200px;
+}
+
+
+#footer {
+	background: #ccc;
+	color:white;
+}
